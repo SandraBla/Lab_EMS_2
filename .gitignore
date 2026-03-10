@@ -55,3 +55,6 @@ dependency-reduced-pom.xml
 
 README.html
 application.properties
+
+#Ponemos aquí el sandbox para q el git lo ignore
+sandbox/
